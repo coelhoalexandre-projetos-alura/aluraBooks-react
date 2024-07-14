@@ -1,9 +1,9 @@
 
-<h1 align="center"> Projeto Event Tracker </h1>
+<h1 align="center"> Projeto AluraBooks React </h1>
 
 <div align="center">
 
-  <a href="https://github.com/coelhoalexandre/projeto-alura-event-tracker/blob/master/LICENSE" target="_blank"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a> <img src="https://img.shields.io/badge/Completo-lightgreen.svg" alt="Completo">
+  <a href="https://github.com/coelhoalexandre/projeto-react-alurabooks/blob/master/LICENSE" target="_blank"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a> <img src="https://img.shields.io/badge/Completo-lightgreen.svg" alt="Completo">
 
 </div>
 
@@ -16,15 +16,21 @@
 
 ## Sobre o Projeto
 
-Projeto do curso [React: gerenciando estado com Recoil](https://cursos.alura.com.br/course/react-gerenciando-estado-recoil), instruido por [**Vinicios Neves**](https://github.com/viniciosneves).
+Projeto dos cursos [React: autenticando usuários](https://cursos.alura.com.br/course/react-autenticando-usuarios) e [React: obtendo dados com React Query
+](https://cursos.alura.com.br/course/react-obtendo-dados-react-query), ambos instruido por [**Vinicios Neves**](https://github.com/viniciosneves).
 
 ## Objetivos do Projeto
 
-- Projetar uma boa solução de gestão de estado com Recoil;
-- Entender todas as vantagens do Recoil;
-- Extrair a comunicação com o recoil em hooks;
-- Implementar os principais hooks do Recoil;
-- Comparar diferentes soluções de mercado para gestão de estado.
+- Reconhecer a diferença entre autenticação, autorização e segurança;
+- Utilizar o axios pra realizar requisições;
+- Fazer a gestão do login do usuário;
+- Identificar pontos do código que precisam de refatoração;
+- Implementar interceptadores de requisições e respostas HTTP;
+- Relembrar conceitos importantes do React;
+- Utilizar o React Query para encapsular as chamadas HTTP;
+- Identificar a melhor estratégia de implementação da camada de dados dos componentes;
+- Descrever padrões de implementação de componentes;
+- Comparar as diferentes formas de obter dados de uma API e gerir e estado local.
 
 ## Tecnolgias Utilizadas
 
@@ -32,9 +38,9 @@ Projeto do curso [React: gerenciando estado com Recoil](https://cursos.alura.com
 2. CSS
 3. JS
 4. React
-5. TS
-6. Recoil
-7. Json-server
+5. React Query
+6. TS
+   
 
 ## Autor
 Meu nome é **Alexandre Coelho**, sou autor deste ReadMe e estudante de Desenvolvimento Web. 
