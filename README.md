@@ -18,8 +18,7 @@
 |Curso|Instrutores|
 |---|---|
 | [React: autenticando usuários](https://cursos.alura.com.br/course/react-autenticando-usuarios)|[**Vinicios Neves**](https://github.com/viniciosneves)|
-|[React: obtendo dados com React Query
-](https://cursos.alura.com.br/course/react-obtendo-dados-react-query)|[**Vinicios Neves**](https://github.com/viniciosneves)|
+|[React: obtendo dados com React Query](https://cursos.alura.com.br/course/react-obtendo-dados-react-query)|[**Vinicios Neves**](https://github.com/viniciosneves)|
 
 
 ## Objetivos do Projeto
