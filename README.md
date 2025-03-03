@@ -1,5 +1,5 @@
 
-<h1 align="center"> Projeto AluraBooks React </h1>
+<h1 align="center"> Projeto AluraBooks React Query</h1>
 
 <div align="center">
 
